@@ -9,18 +9,18 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(to bottom, #bf00e6, #29c7c7);
+    background: white;
     
     
 }
 
 .container{
-    max-width: 450px;
+    max-width: 700px;
     background: linear-gradient(to bottom,#29c7c7, #bf00e6 );
-    border-radius: 8px;
-    box-shadow: 0px 0px 15px 3px rgba(0, 0, 0, 0.4);
+    border-radius: 10px;
+    box-shadow: 1px 0px 15px 3px rgba(0, 0, 0, 0.4);
     font-family: sans-serif;
-    padding: 20px;
+    padding: 25px;
 }
 
 .title{
